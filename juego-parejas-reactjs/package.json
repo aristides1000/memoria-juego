@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.4.1",
+    "ajv": "^6.5.4",
+    "font-awesome": "^4.7.0",
+    "lodash.shuffle": "^4.2.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
